@@ -1,0 +1,14 @@
+{
+  "helloWorld": "Olá mundo!",
+  "@helloWorld": {
+    "description": "Ola, meus amigos"
+  },
+  "title": "Jogo dos Erros",
+  "intro": "Bem-vindo ao \"Alien Explore App\" - a revolucionária plataforma que levará você a uma emocionante jornada para descobrir as maravilhas extraterrestres do nosso universo! Prepare-se para uma experiência única, onde você terá acesso exclusivo a fotos e vídeos impressionantes de possíveis alienígenas capturados ao redor do mundo.\n\nImagine explorar imagens misteriosas e filmagens intrigantes que desafiam as fronteiras da nossa compreensão. Com o \"Alien Explore App\", você terá a oportunidade de vislumbrar encontros com o desconhecido, desvendar segredos ocultos e testemunhar evidências que podem mudar tudo o que sabemos sobre vida além do nosso planeta.\n\nJunte-se a uma comunidade fascinada por tudo o que é cósmico e desconhecido, compartilhando suas próprias teorias e perspectivas em um ambiente acolhedor e livre de julgamentos. Seja você um entusiasta de OVNIs, um cético em busca de respostas ou um explorador curioso, o \"Alien Explore App\" é o seu destino para saciar sua sede por mistérios alienígenas.\n\nVamos mergulhar em um universo de possibilidades, onde a imaginação se encontra com a realidade. Navegue pelo \"Alien Explore App\" agora e desbrave um mundo de emoções enquanto descobrimos juntos os segredos escondidos nas estrelas. A verdade está lá fora - e ela espera por você!",
+  "title_races": "Raças Extraterrestres",
+  "description_races": "Raças Extraterrestres qie visitam nosso planeta há tempos!",
+  "wiki": "BIBLIOTECA",
+  "documentary_title": "Documentários - Youtube",
+  "documentary_description": "Descubra avistamentos alegados, arquivos desclassificados e testemunhos de especialistas que desafiam crenças convencionais.",
+  "button_back": "VOLTAR"
+}

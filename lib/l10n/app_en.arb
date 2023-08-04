@@ -1,0 +1,14 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "Hello, my friends"
+  },
+  "title": "Mistake Game",
+  "intro": "Welcome to \"Alien Explore App\" - the groundbreaking platform that will take you on an exciting journey to discover extraterrestrial wonders in our universe! Get ready for a unique experience where you'll have exclusive access to breathtaking photos and videos of potential aliens captured around the world.\n\nImagine exploring mysterious images and intriguing footage that defy the boundaries of our understanding. With \"Alien Explore App,\" you'll have the opportunity to catch glimpses of encounters with the unknown, unravel hidden secrets, and witness evidence that may change everything we know about life beyond our planet.\n\nJoin a community fascinated by all things cosmic and unknown, sharing your own theories and perspectives in a welcoming, judgment-free environment. Whether you're a UFO enthusiast, a skeptic in search of answers, or a curious explorer, \"Alien Explore App\" is your destination to quench your thirst for extraterrestrial mysteries.\n\nDelve into a universe of possibilities, where imagination meets reality. Download \"Alien Explore App\" now and embark on a world of emotions as we together discover the secrets hidden in the stars. The truth is out there - and it awaits you!\n\nAdded feature: With \"Alien Explore App,\" the quest for truth is in your hands! We recognize the importance of unbiased investigation and informed skepticism. That's why we offer you the opportunity to make informed decisions when interacting with our exclusive content.\n\nEmbark on this thrilling journey as a true alien researcher, empowered to decide for yourself whether a photo or video is genuine or fake. Your opinion is valued and plays a crucial role in our community, helping to identify more convincing findings and filter questionable information.\n\nEach image or recording in \"Alien Explore App\" comes with helpful resources to assist you in forming your conclusions, including details about the source of the media, expert analysis, and the opinion of our engaged community. This way, you can explore with confidence, share your perspectives, and debate ideas with other enthusiasts.\n\nWe believe the power of discernment is in your hands. Navigate \"Alien Explore App\" now and embark on an adventure filled with mysteries, where your choices will shape the path of extraterrestrial discovery. We look forward to hearing your theories and contributions as we seek the truth beyond the stars!",
+  "title_races": "Extraterrestrial Races",
+  "description_races": "Extraterrestrial races that have been visiting our planet for a long time!s",
+  "wiki": "WIKI",
+  "documentary_title": "Documentaries - Youtube",
+  "documentary_description": "Uncover alleged sightings, declassified files, and expert testimonies that challenge conventional beliefs.",
+  "button_back": "BACK"
+}

@@ -1,0 +1,74 @@
+name: ufo_aliens_check_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.1+2
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  intl: ^0.18.0
+  firebase_core: ^2.13.1
+  cloud_firestore: ^4.8.0
+  firebase_auth: ^4.6.3
+  firebase_messaging: ^14.6.3
+  google_fonts: ^5.1.0
+  get: ^4.6.5
+  get_storage: ^2.1.1
+  card_swiper: ^3.0.1
+  chewie: ^1.7.0
+  video_player: ^2.7.0
+  cached_network_image: ^3.2.3
+  device_info_plus: ^9.0.2
+  shared_preferences: ^2.2.0
+  webview_flutter: ^4.2.2
+  google_mobile_ads: ^3.0.0
+  flutter_native_splash: ^2.3.0
+  youtube_player_flutter: ^8.1.2
+
+flutter_native_splash:
+  background_image: assets/images/splash_alien.jpg
+  android: true
+  ios: true
+  web: false
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/icons/icon_alien.jpg"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/icons/icon_alien.jpg"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/icons/icon_alien.jpg"
+    icon_size: 48 # min:48, max:256, default: 48
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: ^2.4.4
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/icons/

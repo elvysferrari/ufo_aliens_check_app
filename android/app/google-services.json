@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69366403008",
+    "project_id": "ufo-aliens-check-app",
+    "storage_bucket": "ufo-aliens-check-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69366403008:android:59ee072a3a1f7e06470225",
+        "android_client_info": {
+          "package_name": "com.megasoftwares.ufo_aliens_check_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69366403008-pf4adr5iqdi84nm0nmmj8u8d3oc4g378.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKoE8eDbl_KqUD158qxMiMHaHK7bFdgLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69366403008-pf4adr5iqdi84nm0nmmj8u8d3oc4g378.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
